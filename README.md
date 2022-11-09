@@ -1,4 +1,5 @@
-# TEALS
+# TEALS (Level 1 Heading)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Latravia/TEALS/HEAD)
 
 This is my repo for **introduction to softwared technologies**!
 
